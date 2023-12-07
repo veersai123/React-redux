@@ -1,7 +1,7 @@
 // main.jsx
 import React  from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import App from './App.js'
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 const initalState={
