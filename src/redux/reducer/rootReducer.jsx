@@ -1,5 +1,5 @@
-import { A,B } from "../constant"
-const initalState={
+import { A,B} from "../constant"
+export const initalState={
     name:"deepak",
     phone:8378783787
 }
